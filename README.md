@@ -12,7 +12,7 @@
 
  📫 Reach out to me: **bektas.talayoglu@outlook.com**
 
- ✍ You can find my LinkedIn profile [here]([https://www.linkedin.com/in/bektastalayoglu/])
+ ✍ You can find my LinkedIn profile <a href="[https://www.linkedin.com/in/bektastalayoglu/]">Here</a>
 
 
  <p  align="center">
