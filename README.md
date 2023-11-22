@@ -12,8 +12,7 @@
 
  📫 Reach out to me: **bektas.talayoglu@outlook.com**
 
- ✍ You can find my LinkedIn profile <a href="[https://www.linkedin.com/in/bektastalayoglu/]">Here</a>
-
+ ✍ You can find my LinkedIn profile [Weatherapp](https://jwds.me/weatherapp/)
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
