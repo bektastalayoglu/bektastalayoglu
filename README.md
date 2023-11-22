@@ -1,9 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Bektas Talayoglu</h1>
  
-
-![GitHub followers](https://img.shields.io/github/followers/bektastalayglu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bektastalayoglu?style=social)<img src="https://komarev.com/ghpvc/?username=bektastalayoglu" alt="" />
-
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
 
