@@ -4,13 +4,13 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
 
- 🔭 I’m currently a Computer Science Masters student at Vrije Universitat Brussel.
+ 🔭 I’m a final-year Computer Science Masters student at Vrije Universitat Brussel.
  
  ⚡ I am interested in **Embedded Software**. I worked as an embedded software developer for about 1 year.
 
- 🌱 I’m currently learning **Java, C++**
+ 🌱 I’m currently learning **Java, C++, Artificial Intelligence**
 
- 📫 Reach out to me: **bektas.talayoglu@outlook.com**'
+ 📫 Reach out to me: **bektas.talayoglu@outlook.com**
 
  ✍ You can find my LinkedIn profile [here](https://www.linkedin.com/in/bektastalayoglu/)
 
