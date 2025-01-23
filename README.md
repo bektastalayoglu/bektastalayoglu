@@ -6,7 +6,7 @@
 
  🔭 I’m a final-year Computer Science Masters student at Vrije Universitat Brussel.
  
- ⚡ I am interested in **Embedded Software**. I worked as an embedded software developer for about 1 year.
+ ⚡ I am interested in **Embedded Software and Artificial Intelligence**. I worked as an embedded software developer for about 1 year.
 
  🌱 I’m currently learning **Java, C++, Artificial Intelligence**
 
